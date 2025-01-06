@@ -7,31 +7,12 @@ A collection of Jupyter notebooks demonstrating fundamental machine learning con
 Standardized numerical features and applied PCA to extract principal components
 
 ### Regression Analysis
-Implemented and compared multiple regression models:
-Linear Regression
-Random Forests
-Extra Random Trees
-AdaBoost
-XGBoost
-NGBoost
+Implemented and compared multiple regression models: Linear Regression, Random Forests, Extra Random Trees, AdaBoost, XGBoost, NGBoost
 
 ### Classification
-Implemented various classification algorithms:
-Logistic Regression
-Naive Bayes
-KNN
-Linear SVM
-Kernel SVM
-Decision Trees
+Implemented various classification algorithms: Logistic Regression, Naive Bayes, KNN, Linear SVM, Kernel SVM, Decision Trees
 
 ### Clustering
-Applied different clustering algorithms:
-K-means
-EM-Clustering
-K-medoids
+Applied different clustering algorithms: K-means, EM-Clustering, K-medoids
 
-Evaluated using metrics:
-SSE
-Silhouette Score
-BetaCV
-Dunn's Index
+Evaluated using metrics: SSE, Silhouette Score, BetaCV, Dunn's Index
